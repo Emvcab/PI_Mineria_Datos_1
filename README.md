@@ -7,8 +7,8 @@ Proyecto Integrador de la materia Minería de Datos 1. Desarrolla un análisis d
 - **Comisión:** Turno Tarde, Nodo
 - **Integrantes:** Emilio Cabaña
 - **Fecha:** Lunes 29 de Junio
-- **Repositorio:** _(completar URL pública de GitHub)_
-- **Aplicación Streamlit:** _(completar URL pública de Streamlit Cloud)_
+- **Repositorio:** https://github.com/Emvcab/PI_Mineria_Datos_1
+- **Aplicación Streamlit:** https://pimineriadatos1.streamlit.app/
 
 ## Objetivo del proyecto
 
@@ -72,7 +72,7 @@ Resultado: cada componente principal explica aproximadamente un tercio de la var
 
 La aplicación pública en Streamlit Cloud comunica los resultados para público general, con páginas de Dataset, EDA, PCA y Conclusiones. No reemplaza la evidencia técnica del repositorio.
 
-- **Enlace público a Streamlit Cloud:** _(completar)_
+- **Enlace público a Streamlit Cloud:** https://pimineriadatos1.streamlit.app/
 
 ## Cómo ejecutar localmente
 

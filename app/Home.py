@@ -23,7 +23,7 @@ with col1:
 with col2:
     st.markdown("""
     ### Enlaces
-    - 🔗 **Repositorio GitHub:** _(completar con la URL pública)_
+    - 🔗 **Repositorio GitHub:** [https://github.com/Emvcab/PI_Mineria_Datos_1](https://github.com/Emvcab/PI_Mineria_Datos_1)
     - 📄 **Informe final:** disponible en `reports/informe_final.pdf`
     """)
 
@@ -34,7 +34,7 @@ st.markdown("""
 
 Este proyecto desarrolla un análisis de datos **reproducible y comunicable** sobre un dataset
 de usuarios de una plataforma de streaming. El dataset original presentaba problemas de calidad
-(valores faltantes, duplicados, categorías inconsistentes, valores imposibles y valores imposibles) que
+(valores faltantes, duplicados, categorías inconsistentes y valores imposibles) que
 fueron diagnosticados y corregidos con decisiones **justificadas por evidencia**.
 
 El recorrido completo es: **inspección inicial → calidad y limpieza → análisis exploratorio (EDA)

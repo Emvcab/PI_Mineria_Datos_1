@@ -8,7 +8,7 @@ st.markdown("""
 ### Hallazgos principales
 
 - **Calidad de datos:** el dataset crudo tenía problemas en las 8 columnas (duplicados, valores
-  imposibles, valores imposibles, categorías inconsistentes, fechas inválidas). Tras la limpieza se conservó
+  imposibles, categorías inconsistentes, fechas inválidas). Tras la limpieza se conservó
   cerca del **98%** de las filas, con pérdida concentrada solo en duplicados documentados.
 - **Comportamiento de usuarios:** la base es de adultos jóvenes (mediana ~33 años). El **plan de
   suscripción es el principal determinante del consumo** (Premium ≈ doble que Básico). La **edad no
@@ -42,4 +42,4 @@ st.markdown("""
 """)
 
 st.markdown("---")
-st.markdown("🔗 **Repositorio GitHub:** _(completar)_  |  📄 **Informe final:** `reports/informe_final.pdf`")
+st.markdown("🔗 **Repositorio GitHub:** https://github.com/Emvcab/PI_Mineria_Datos_1  |  📄 **Informe final:** `reports/informe_final.pdf`")
