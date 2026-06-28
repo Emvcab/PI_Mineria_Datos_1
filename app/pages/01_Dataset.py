@@ -5,7 +5,7 @@ from pathlib import Path
 st.set_page_config(page_title="Dataset", page_icon="🗂️", layout="wide")
 
 # Ruta robusta: relativa a este archivo (funciona local y en Streamlit Cloud)
-BASE = Path(__file__).resolve().parent.parent
+BASE = Path(__file__).resolve().parent.parent.parent
 RAW = BASE / "data" / "raw" / "streaming_users_dirty.json"
 CLEAN = BASE / "data" / "processed" / "streaming_users_clean.csv"
 LOG = BASE / "logs" / "pipeline_log.csv"
