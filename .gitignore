@@ -6,3 +6,6 @@ venv/
 env/
 .DS_Store
 .streamlit/secrets.toml
+
+# Carpeta generada automáticamente por Streamlit Cloud
+.devcontainer/
