@@ -5,7 +5,7 @@
 Proyecto Integrador de la materia Minería de Datos 1. Desarrolla un análisis de datos reproducible y comunicable sobre un dataset de usuarios de una plataforma de streaming, cubriendo inspección, calidad, análisis exploratorio, escalamiento y PCA.
 
 - **Comisión:** Turno Tarde, Nodo
-- **Integrantes:** Emilio Cabaña
+- **Integrantes:** Emilio Cabaña y Gomez Cinthia
 - **Fecha:** Lunes 29 de Junio
 - **Repositorio:** https://github.com/Emvcab/PI_Mineria_Datos_1
 - **Aplicación Streamlit:** https://pimineriadatos1.streamlit.app/
