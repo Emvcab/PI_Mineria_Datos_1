@@ -17,7 +17,7 @@ with col1:
     ### Información del proyecto
     - **Materia:** Minería de Datos 1
     - **Comisión:** Turno Tarde, Nodo
-    - **Integrantes:** Emilio Cabaña
+    - **Integrantes:** Emilio Cabaña y Gomez Cinthia
     - **Fecha:** Lunes 29 de Junio
     """)
 with col2:
